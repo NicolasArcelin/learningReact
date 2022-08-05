@@ -7,7 +7,7 @@ function App() {
       <Todo text="Learn React" />
       <Todo text="Master React" />
       <Todo text="Be Awesome" />
-      <Todo />
+      <Todo text="Be extra awsome" />
     </div>
   );
 }
